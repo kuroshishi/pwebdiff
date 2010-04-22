@@ -1,0 +1,38 @@
+body {
+  background-color:	white;
+}
+
+p.hdr {
+  font-size:		24pt;
+  text-align:		center;
+  font-weight:		bold;
+}
+
+td.err {
+  font-size:		16pt;
+  text-align:		center;
+  color:		red;
+  font-weight:		bold;
+}
+
+td.hlp {
+  font-size:		8pt;
+  text-align:		left;
+  color:		gray;
+}
+
+tr.pth {
+  text-align:		center;
+  font-weight:		bold;
+  background-color:	#FFFFDD;
+}
+
+img.cl {
+  border: 1px solid #ffffff;
+  margin-left: 7px;
+}
+
+img.cl:hover {
+  border: 1px solid #999999;
+  margin-left: 7px;
+}
